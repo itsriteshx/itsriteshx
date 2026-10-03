@@ -3,27 +3,24 @@
 <!-- Futuristic Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=220&section=header&text=Ritesh%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Premium Coding Workspace Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Developer Workspace Animation" />
+<!-- Smooth Moving Visual Animation Loop (No Audio / No External Links) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Moving Developer Animation" />
 
 <br/><br/>
 
-<!-- Modern Social & Coding Profiles -->
+<!-- Modern Social & Coding Profiles with Crisp Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/riteshkkushwaha">
+  <a href="https://linkedin.com/in/riteshkkushwaha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/OiaubtzMse/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/OiaubtzMse/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:riteshroyal834047@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/itsriteshx?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  </a>
-  <a href="https://github.com/itsriteshx?tab=followers">
-    <img src="https://img.shields.io/github/followers/itsriteshx?label=Followers&style=for-the-badge&color=0284C7&logo=github" alt="Followers"/>
+  <a href="https://github.com/itsriteshx?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -154,9 +151,5 @@
   <a href="https://leetcode.com/u/OiaubtzMse/">LeetCode</a> • 
   <a href="mailto:riteshroyal834047@gmail.com">Email</a> • 
   <a href="https://github.com/itsriteshx">GitHub</a>
-  
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=itsriteshx&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
 
 </div>
-
