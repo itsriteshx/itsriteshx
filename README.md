@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Futuristic Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=230&section=header&text=Ritesh%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=220&section=header&text=Ritesh%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Dynamic Animated Typing Text -->
-<a href="https://github.com/itsriteshx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Aspiring+Full+Stack+Developer+🚀;Passionate+about+Modern+Web+%26+Mobile+Apps+💻;Open+Source+Contributor+%40+WeatherRoutingTool+🌐;Exploring+AI+%26+Backend+Architecture+⚡;Always+building+and+learning+new+tech!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Aspiring+Full+Stack+Developer+🚀;Building+Modern+Web+%26+Mobile+Apps+💻;Exploring+Backend+Architecture+%26+Databases+⚡;Turning+Ideas+into+Clean%2C+Scalable+Code!" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -32,10 +30,10 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Role**: **Aspiring Full Stack Developer** passionate about building modern web apps & scalable backends.
-- 🔭 **Current Focus**: Mastering full-stack systems, RESTful APIs, and contributing to open-source software.
-- 🌐 **Open Source**: Actively contributing to real-world projects like **WeatherRoutingTool**.- 💬 **Ask Me About**: `React`, `Next.js`, `Node.js`, `Python`, `PostgreSQL`, `JavaScript`, `Tailwind CSS`.
-- ⚡ **Fun Fact**: I turn curiosity and coffee into clean code and interactive UIs ☕💻.
+- 🚀 **Role**: **Aspiring Full Stack Developer** focused on building responsive web apps and robust backend services.
+- 🔭 **Current Focus**: Mastering full-stack architecture, RESTful API design, database schemas, and modern UI/UX.
+- 💬 **Ask Me About**: `React`, `Next.js`, `Node.js`, `Python`, `PostgreSQL`, `JavaScript`, `Tailwind CSS`.
+- ⚡ **Fun Fact**: I love transforming complex requirements into smooth, intuitive digital experiences 💻✨.
 
 ---
 
@@ -58,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql,redis,prisma" />
 </p>
 
-#### 🧪 Tools & DevOps
+#### 🧪 Tools & Environment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,npm,vscode" />
 </p>
@@ -67,28 +65,28 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌊 WeatherRoutingTool</h3>
+      <h3 align="center">🏏 Cric-View</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </p>
-      <p>Maritime ship route optimization based on fuel consumption under oceanic weather conditions using genetic algorithms.</p>
+      <p>A responsive React web app to view live cricket matches with real-time search, filter, and sorting features.</p>
       <p align="center">
-        <a href="https://github.com/itsriteshx/WeatherRoutingTool"><b>View Project ➔</b></a>
+        <a href="https://github.com/itsriteshx/Cric-View"><b>View Project ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Diagramming Whiteboard Desktop</h3>
+      <h3 align="center">🎨 Whiteboard Desktop App</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <p>High-performance desktop diagramming whiteboard application built using ElectronJS for fluid sketches and wireframing.</p>
+      <p>Interactive high-performance desktop diagramming whiteboard application built using ElectronJS for fluid sketches.</p>
       <p align="center">
         <a href="https://github.com/itsriteshx/Diagramming-Whiteboard-Desktop-Application-ElectronJS"><b>View Project ➔</b></a>
       </p>
@@ -96,14 +94,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏙️ Smart City Citizen Dashboard</h3>
+      <h3 align="center">🏙️ Capstone Smart City Dashboard</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Dashboard-UI%2FUX-purple?style=flat-square"/>
       </p>
-      <p>Citizen-first smart dashboard built for public utility insights and municipal service management.</p>
+      <p>Smart City Citizen Dashboard built for public utility insights and municipal service telemetry.</p>
       <p align="center">
-        <a href="https://github.com/itsriteshx/Foai-contest-2"><b>View Project ➔</b></a>
+        <a href="https://github.com/itsriteshx/Capstone-Project-Foai"><b>View Project ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -119,16 +117,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Contribution Wave Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsriteshx&theme=tokyo-night&bg_color=1a1b26&color=38bdf8&line=38bdf8&point=f43f5e&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
 
 ---
 
@@ -156,25 +144,15 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsriteshx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
-  <b>Let's Connect & Build Together!</b><br/>
+  <b>Let's Connect & Collaborate!</b><br/>
   <a href="https://linkedin.com/in/riteshkkushwaha">LinkedIn</a> • 
   <a href="mailto:riteshroyal834047@gmail.com">Email</a> • 
   <a href="https://github.com/itsriteshx">GitHub</a>
   
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=itsriteshx&style=for-the-badge&color=0284c7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsriteshx&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
