@@ -3,15 +3,18 @@
 <!-- Futuristic Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=220&section=header&text=Ritesh%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Dynamic Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Aspiring+Full+Stack+Developer+🚀;Building+Modern+Web+%26+Mobile+Apps+💻;Exploring+Backend+Architecture+%26+Databases+⚡;Turning+Ideas+into+Clean%2C+Scalable+Code!" alt="Typing Animation" />
+<!-- Premium Coding Workspace Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Developer Workspace Animation" />
 
 <br/><br/>
 
-<!-- Modern Social Badges -->
+<!-- Modern Social & Coding Profiles -->
 <p align="center">
   <a href="https://linkedin.com/in/riteshkkushwaha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/OiaubtzMse/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:riteshroyal834047@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -30,10 +33,10 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Role**: **Aspiring Full Stack Developer** focused on building responsive web apps and robust backend services.
-- 🔭 **Current Focus**: Mastering full-stack architecture, RESTful API design, database schemas, and modern UI/UX.
+- 🚀 **Role**: **Aspiring Full Stack Developer** dedicated to building modern, high-performance web and desktop applications.
+- 🔭 **Current Focus**: Mastering full-stack architecture, clean API design, and intuitive user interfaces.
 - 💬 **Ask Me About**: `React`, `Next.js`, `Node.js`, `Python`, `PostgreSQL`, `JavaScript`, `Tailwind CSS`.
-- ⚡ **Fun Fact**: I love transforming complex requirements into smooth, intuitive digital experiences 💻✨.
+- ⚡ **Fun Fact**: I love transforming complex ideas into clean code and interactive digital experiences ☕💻.
 
 ---
 
@@ -43,7 +46,7 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,go,kotlin,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,go,html,css" />
 </p>
 
 #### 🌐 Frontend & Desktop
@@ -53,12 +56,12 @@
 
 #### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,mysql" />
 </p>
 
 #### 🧪 Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,npm,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vscode" />
 </p>
 
 </div>
@@ -97,7 +100,7 @@
       <h3 align="center">🏙️ Capstone Smart City Dashboard</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Dashboard-UI%2FUX-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat-square"/>
       </p>
       <p>Smart City Citizen Dashboard built for public utility insights and municipal service telemetry.</p>
       <p align="center">
@@ -148,6 +151,7 @@
 
   <b>Let's Connect & Collaborate!</b><br/>
   <a href="https://linkedin.com/in/riteshkkushwaha">LinkedIn</a> • 
+  <a href="https://leetcode.com/u/OiaubtzMse/">LeetCode</a> • 
   <a href="mailto:riteshroyal834047@gmail.com">Email</a> • 
   <a href="https://github.com/itsriteshx">GitHub</a>
   
