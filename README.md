@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Futuristic Hero Banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=220&section=header&text=Ritesh%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Smooth Moving Visual Animation Loop (No Audio / No External Links) -->
