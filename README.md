@@ -3,12 +3,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,31&height=220&section=header&text=Ritesh%20Kumar%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Smooth Moving Visual Animation Loop (No Audio / No External Links) -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="550" alt="Moving Developer Animation" />
 
 <br/><br/>
 
-<!-- Modern Social & Coding Profiles with Crisp Icons -->
+
 <p align="center">
   <a href="https://linkedin.com/in/riteshkkushwaha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
